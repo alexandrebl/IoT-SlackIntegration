@@ -1,4 +1,4 @@
-Iot Intel Edison Api REST Slack Integration**
+**Iot Intel Edison Api REST Slack Integration**
 by Alexandre Brandão Lustosa
     
 Github:     https://github.com/alexandrebl
