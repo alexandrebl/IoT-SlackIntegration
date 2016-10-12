@@ -99,7 +99,7 @@ function formatData(fahrenheit, celsius){
                 "footer_icon": "https://platform.slack-edge.com/img/default_application_icon.png",
             }
         ]
-    }
+    };
    
     //Return
     return data;
@@ -120,7 +120,7 @@ function postOnSlack(data){
         //Verify response
         if (!error && response.statusCode == 200) {
             //Print message
-            console.log("Success")
+            console.log("Success");
         }else{
             //Print message
             console.log("Error status code: " + response.statusCode + " / " +  error);
