@@ -23,14 +23,14 @@
         "name": "IoTTempMonitor.xdk"
       },
       "IoTTempMonitor.xdke": {
-        "previousModTime": 1476276677231,
-        "modified": 1476276677231,
+        "previousModTime": 1476279103527,
+        "modified": 1476279103527,
         "seen": true,
         "name": "IoTTempMonitor.xdke"
       },
       "main.js": {
-        "previousModTime": 1476276687641,
-        "modified": 1476276687641,
+        "previousModTime": 1476278861009,
+        "modified": 1476278861009,
         "seen": true,
         "name": "main.js"
       },
@@ -41,8 +41,8 @@
         "name": "package.json"
       },
       "README.md": {
-        "previousModTime": 1476016849884,
-        "modified": 1476016849884,
+        "previousModTime": 1476276988449,
+        "modified": 1476276988449,
         "seen": true,
         "name": "README.md"
       },
@@ -53,10 +53,6 @@
         "name": "xdk/project-info.json"
       }
     },
-    "boardFileStatus": {
-      "main.js": {
-        "previousModTime": 1476276693121
-      }
-    }
+    "boardFileStatus": {}
   }
 }
