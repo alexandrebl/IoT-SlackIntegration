@@ -123,7 +123,7 @@ function postOnSlack(data){
             console.log("Success");
         }else{
             //Print message
-            console.log("Error status code: " + response.statusCode + " / " +  error);
+            console.log(error);
         }
     });
 }
